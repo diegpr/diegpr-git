@@ -5,7 +5,7 @@ using TheProject.API.Model.Entities;
 
 namespace TheProject.API.Controllers
 {
-
+    //Route prexix API
     [Route("api/[controller]")]
     public abstract class BaseController<T> : Controller where T : BaseEntity
     {
