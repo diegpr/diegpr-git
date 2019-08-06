@@ -1,0 +1,15 @@
+C:\Users\Diego Ribeiro\Documents\Estudos\2019\Everis - Treinamento TDD, DDD, Solid\Final Curso\TheProject\TheProject.API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Diego Ribeiro\Documents\Estudos\2019\Everis - Treinamento TDD, DDD, Solid\Final Curso\TheProject\TheProject.API\bin\Debug\netcoreapp2.2\TheProject.API.deps.json
+C:\Users\Diego Ribeiro\Documents\Estudos\2019\Everis - Treinamento TDD, DDD, Solid\Final Curso\TheProject\TheProject.API\bin\Debug\netcoreapp2.2\TheProject.API.runtimeconfig.json
+C:\Users\Diego Ribeiro\Documents\Estudos\2019\Everis - Treinamento TDD, DDD, Solid\Final Curso\TheProject\TheProject.API\bin\Debug\netcoreapp2.2\TheProject.API.runtimeconfig.dev.json
+C:\Users\Diego Ribeiro\Documents\Estudos\2019\Everis - Treinamento TDD, DDD, Solid\Final Curso\TheProject\TheProject.API\bin\Debug\netcoreapp2.2\TheProject.API.dll
+C:\Users\Diego Ribeiro\Documents\Estudos\2019\Everis - Treinamento TDD, DDD, Solid\Final Curso\TheProject\TheProject.API\bin\Debug\netcoreapp2.2\TheProject.API.pdb
+C:\Users\Diego Ribeiro\Documents\Estudos\2019\Everis - Treinamento TDD, DDD, Solid\Final Curso\TheProject\TheProject.API\obj\Debug\netcoreapp2.2\TheProject.API.csprojAssemblyReference.cache
+C:\Users\Diego Ribeiro\Documents\Estudos\2019\Everis - Treinamento TDD, DDD, Solid\Final Curso\TheProject\TheProject.API\obj\Debug\netcoreapp2.2\TheProject.API.csproj.CoreCompileInputs.cache
+C:\Users\Diego Ribeiro\Documents\Estudos\2019\Everis - Treinamento TDD, DDD, Solid\Final Curso\TheProject\TheProject.API\obj\Debug\netcoreapp2.2\TheProject.API.RazorAssemblyInfo.cache
+C:\Users\Diego Ribeiro\Documents\Estudos\2019\Everis - Treinamento TDD, DDD, Solid\Final Curso\TheProject\TheProject.API\obj\Debug\netcoreapp2.2\TheProject.API.RazorAssemblyInfo.cs
+C:\Users\Diego Ribeiro\Documents\Estudos\2019\Everis - Treinamento TDD, DDD, Solid\Final Curso\TheProject\TheProject.API\obj\Debug\netcoreapp2.2\TheProject.API.AssemblyInfoInputs.cache
+C:\Users\Diego Ribeiro\Documents\Estudos\2019\Everis - Treinamento TDD, DDD, Solid\Final Curso\TheProject\TheProject.API\obj\Debug\netcoreapp2.2\TheProject.API.AssemblyInfo.cs
+C:\Users\Diego Ribeiro\Documents\Estudos\2019\Everis - Treinamento TDD, DDD, Solid\Final Curso\TheProject\TheProject.API\obj\Debug\netcoreapp2.2\TheProject.API.RazorTargetAssemblyInfo.cache
+C:\Users\Diego Ribeiro\Documents\Estudos\2019\Everis - Treinamento TDD, DDD, Solid\Final Curso\TheProject\TheProject.API\obj\Debug\netcoreapp2.2\TheProject.API.dll
+C:\Users\Diego Ribeiro\Documents\Estudos\2019\Everis - Treinamento TDD, DDD, Solid\Final Curso\TheProject\TheProject.API\obj\Debug\netcoreapp2.2\TheProject.API.pdb
